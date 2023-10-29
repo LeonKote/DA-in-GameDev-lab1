@@ -6,16 +6,14 @@
 
 | Задание | Выполнение | Баллы |
 | ------ | ------ | ------ |
-| Задание 1 | * | 60 |
-| Задание 2 | * | 20 |
-| Задание 3 | * | 20 |
+| Задание 1 | * | - |
+| Задание 2 | * | - |
+| Задание 3 | * | - |
 
 знак "*" - задание выполнено; знак "#" - задание не выполнено;
 
 Работу проверили:
-- к.т.н., доцент Денисов Д.В.
-- к.э.н., доцент Панов М.А.
-- ст. преп., Фадеев В.О.
+- -
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
@@ -51,7 +49,7 @@ print('Hello World')
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity. 
 
-- см. [каталог](https://github.com/LeonKote/DA-in-GameDev-lab1/blob/master/HelloWorld) с проектом.
+- см. [каталог](https://github.com/LeonKote/DA-in-GameDev-lab1/tree/master/HelloWorld) с проектом.
 - см. [скрипт](https://github.com/LeonKote/DA-in-GameDev-lab1/blob/master/HelloWorld/Assets/Scripts/GameManager.cs).
 
 ```cs
